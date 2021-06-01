@@ -1,0 +1,9 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 ,1,"100nF","Capacitor_SMD:C_0603_1608Metric","C14663"
+C2 ,1,"10uF/50V","Capacitor_SMD:C_1210_3225Metric","C337485"
+D1 ,1,"B5819W","Diode_SMD:D_SOD-123","C8598"
+J1 J2 J3 J4 J5 J6 J7 ,7,"Conn_01x01","Chimere:Castellated_conn","~"
+Q1 Q2 ,2,"FDS8884","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","C10883"
+R1 R3 ,2,"47","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder","C23182"
+R2 R4 ,2,"100k","Resistor_SMD:R_0603_1608Metric_Pad1.05x0.95mm_HandSolder"," C25803"
+U1 ,1,"IMP3201","Package_SO:SOP-8_3.9x4.9mm_P1.27mm","C72885"
