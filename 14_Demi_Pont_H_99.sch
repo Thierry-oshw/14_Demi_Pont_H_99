@@ -19,7 +19,7 @@ U 1 1 606CE97F
 P 7150 3900
 F 0 "J5" H 7230 3942 50  0000 L CNN
 F 1 "Conn_01x01" H 7230 3851 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 7150 3900 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 7150 3900 50  0001 C CNN
 F 3 "~" H 7150 3900 50  0001 C CNN
 	1    7150 3900
 	1    0    0    -1  
@@ -30,7 +30,7 @@ U 1 1 606CFC19
 P 7150 4100
 F 0 "J6" H 7230 4142 50  0000 L CNN
 F 1 "Conn_01x01" H 7230 4051 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 7150 4100 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 7150 4100 50  0001 C CNN
 F 3 "~" H 7150 4100 50  0001 C CNN
 	1    7150 4100
 	1    0    0    -1  
@@ -43,7 +43,7 @@ U 1 1 606D5E52
 P 7150 3700
 F 0 "J4" H 7230 3742 50  0000 L CNN
 F 1 "Conn_01x01" H 7230 3651 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 7150 3700 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 7150 3700 50  0001 C CNN
 F 3 "~" H 7150 3700 50  0001 C CNN
 	1    7150 3700
 	1    0    0    -1  
@@ -94,7 +94,7 @@ U 1 1 6079B82F
 P 7150 3150
 F 0 "J1" H 7230 3192 50  0000 L CNN
 F 1 "Conn_01x01" H 7230 3101 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 7150 3150 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 7150 3150 50  0001 C CNN
 F 3 "~" H 7150 3150 50  0001 C CNN
 	1    7150 3150
 	1    0    0    -1  
@@ -107,7 +107,7 @@ U 1 1 6079BCA3
 P 7150 3525
 F 0 "J3" H 7230 3567 50  0000 L CNN
 F 1 "Conn_01x01" H 7230 3476 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 7150 3525 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 7150 3525 50  0001 C CNN
 F 3 "~" H 7150 3525 50  0001 C CNN
 	1    7150 3525
 	1    0    0    -1  
@@ -119,7 +119,7 @@ GND
 Text GLabel 5250 4825 2    50   Input ~ 0
 GND
 $Comp
-L Chimere:FDS6630A Q2
+L Chimere_comps:FDS6630A Q2
 U 1 1 6078CBA9
 P 5100 4425
 F 0 "Q2" H 5305 4471 50  0000 L CNN
@@ -605,7 +605,7 @@ Vpower
 Wire Wire Line
 	4150 3700 4250 3700
 $Comp
-L Chimere:FDS6630A Q1
+L Chimere_comps:FDS6630A Q1
 U 1 1 60B53179
 P 5100 3700
 F 0 "Q1" H 5305 3746 50  0000 L CNN
@@ -649,7 +649,7 @@ Wire Wire Line
 Text Notes 2925 4475 0    50   ~ 0
 imp3201\nC72885
 $Comp
-L Chimere:IMP3201 U1
+L Chimere_comps:IMP3201 U1
 U 1 1 60B5A254
 P 3050 3925
 F 0 "U1" H 3050 4390 50  0000 C CNN
@@ -679,7 +679,7 @@ U 1 1 60B62310
 P 7150 3325
 F 0 "J2" H 7230 3367 50  0000 L CNN
 F 1 "Conn_01x01" H 7230 3276 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 7150 3325 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 7150 3325 50  0001 C CNN
 F 3 "~" H 7150 3325 50  0001 C CNN
 	1    7150 3325
 	1    0    0    -1  
@@ -1816,7 +1816,7 @@ U 1 1 60B7F229
 P 7150 4300
 F 0 "J7" H 7230 4342 50  0000 L CNN
 F 1 "Conn_01x01" H 7230 4251 50  0000 L CNN
-F 2 "Chimere:Castellated_conn" H 7150 4300 50  0001 C CNN
+F 2 "Chimere_mods:Castellated_conn" H 7150 4300 50  0001 C CNN
 F 3 "~" H 7150 4300 50  0001 C CNN
 	1    7150 4300
 	1    0    0    -1  

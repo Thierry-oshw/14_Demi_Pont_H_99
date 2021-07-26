@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# Chimere_FDS6630A
+# Chimere_comps_FDS6630A
 #
-DEF Chimere_FDS6630A Q 0 20 Y N 1 F N
+DEF Chimere_comps_FDS6630A Q 0 20 Y N 1 F N
 F0 "Q" 200 100 50 H V L CNN
-F1 "Chimere_FDS6630A" 200 0 50 H V L CNN
+F1 "Chimere_comps_FDS6630A" 200 0 50 H V L CNN
 F2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" 200 -100 50 H I L CNN
 F3 "" 0 0 50 H I L CNN
 ALIAS IRF7403 FDS2734 FDS6630A
@@ -38,11 +38,11 @@ X D 8 100 200 100 D 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# Chimere_IMP3201
+# Chimere_comps_IMP3201
 #
-DEF Chimere_IMP3201 U 0 40 Y Y 1 F N
+DEF Chimere_comps_IMP3201 U 0 40 Y Y 1 F N
 F0 "U" -200 350 50 H V C CNN
-F1 "Chimere_IMP3201" 50 -100 50 V V C CNN
+F1 "Chimere_comps_IMP3201" 50 -100 50 V V C CNN
 F2 "Package_SO:SOP-8_3.9x4.9mm_P1.27mm" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
